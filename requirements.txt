@@ -1,0 +1,2 @@
+chromatopy @ git+https://github.com/FAIRChemistry/chromatopy.git
+nbformat>=4.2.0
