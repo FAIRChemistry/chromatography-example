@@ -1,5 +1,3 @@
 # Handling chromatographic data
  
-Check out the following examples in Colab:
-- [Extract peaks from many chromatograms from a Shimadzu LC system](https://colab.research.google.com/github/FAIRChemistry/chromatography-example/blob/main/shimadzu-example.ipynb)
-- [Find and extract peaks from a single chromatogram](https://colab.research.google.com/github/FAIRChemistry/chromatography-example/blob/main/single-chromatogram.ipynb)
+This project folder showcases how chromatographic data can be currently handled using `chromatopy`. Besides the raw data, located in the `data/` folder, two Jupyter Notebooks are within this example project. In `shimadzu-example.ipynb` 8 chromatograms are read in at once and peaks of interest are extracted. In `single-chromatogram.ipynb` a single chromatograms is read in from a CSV file, the chromatogram is fitted and peaks are annotated.
